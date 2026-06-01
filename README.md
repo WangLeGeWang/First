@@ -33,7 +33,7 @@
 
 ## 下载
 
-[Releases](https://github.com/user/First/releases)
+[Releases](https://github.com/Spade-sec/First/releases)
 
 | 平台 | 文件 |
 |------|------|
@@ -43,11 +43,17 @@
 
 ## 支持的微信版本
 
-**Windows** — WMPF: 11581 ~ 19823（推荐微信 4.1.0.30）- 后续自动更新
+### Windows
 
-**macOS** — WMPF: 17078, 18152, 18788（推荐微信 4.1.7.30）- 后续自动更新
+- WMPF 版本：11581, 11633, 13331, 13341, 13487, 13639, 13655, 13871, 13909, 14161, 14199, 14315, 16133, 16203, 16389, 16467, 16771, 16815, 16965, 17037, 17071, 17127, 18055, 18151, 18787, 18891, 18955, 19027, 19201（实时更新）
+- 推荐微信版本：**4.1.0.30**
+- 下载地址：[weixin/4.1.0.30](https://github.com/vs-olitus/wx-version/releases/tag/4.1.0.30)
 
-微信历史版本下载：[wx-version](https://github.com/vs-olitus/wx-version/releases)
+### macOS
+
+- WMPF 版本：18152, 18788（实时更新）
+- 推荐微信版本：**4.1.7.30**
+- 下载地址：[weixin/4.1.7.30](https://github.com/vs-olitus/wx-version/releases/tag/4.1.7.30)
 
 ## 快速开始
 
